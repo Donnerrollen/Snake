@@ -1,0 +1,10 @@
+﻿  SnakeGame_SFML.cpp
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(36,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(39,33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(42,31): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(150,45): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(150,37): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(183,22): warning C4244: инициализация: преобразование "sf::Int32" в "float", возможна потеря данных
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(145,11): warning C4101: body_x_i: неиспользованная локальная переменная
+E:\Projects\C++\SnakeGame_SFML\SnakeGame_SFML.cpp(145,21): warning C4101: body_y_i: неиспользованная локальная переменная
+  SnakeGame_SFML.vcxproj -> E:\Projects\C++\SnakeGame_SFML\Debug\SnakeGame_SFML.exe
